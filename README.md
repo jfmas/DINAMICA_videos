@@ -7,6 +7,7 @@ Video1: Introducción a Dinámica: Dinamica1.zip
 
 Mini videos de Don Burrin
 1 - Algebra de mapas: Algebra_de_mapas.zip
+2 - Reclasificación de raster: reclasificacion.zip
 
 
 Estos videos se elaboraron en el ámbito del proyecto "Herramientas para la Enseñanza de la Geomática con programas de Código Abierto", Programa de Apoyo a Proyectos para la Innovación y Mejoramiento de la Enseñanza PAPIME, Clave PE117519 http://lae.ciga.unam.mx/proyectos/geomatica/
