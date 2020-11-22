@@ -2,10 +2,11 @@
 Material de los videos de modelado espacial con DINAMICA
 Encontrarás aqui el material de los videos tutorales de DINAMICA
 
-Video1: Introducción a Dinámica: Dinamica1.zip
+# Videos curso Modelación espacial
+1 - Video1: Introducción a Dinámica: Dinamica1.zip
 
 
-Mini videos de Don Burrin
+# Mini videos de Don Burrin
 1 - Algebra de mapas: Algebra_de_mapas.zip
 2 - Reclasificación de raster: reclasificacion.zip
 
